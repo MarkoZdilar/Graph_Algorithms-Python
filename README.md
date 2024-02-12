@@ -6,7 +6,7 @@ Welcome to the Python project containing exercises from the Graph Algorithms cou
 
 Here is an example of one of the graphs used in the exercises:
 
-![Sample Graph](https://github.com/MarkoZdilar/WineShop-MERN-Fullstack/assets/58775766/82d543bc-e869-4efb-afa3-ab9ac446a42a)
+<img src="https://github.com/MarkoZdilar/WineShop-MERN-Fullstack/assets/58775766/82d543bc-e869-4efb-afa3-ab9ac446a42a" width="40%">
 
 ## Project Structure
 
